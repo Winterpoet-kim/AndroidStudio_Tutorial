@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RelativeLayout"
+    >
+
+    <View
+        android:id="@+id/orange_view"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="#FF9800"
+        />
+
+    <View
+        android:id="@+id/blue_view"
+        android:layout_alignParentLeft="true"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="#2196F3"
+        />
+    <View
+        android:id="@+id/green_view"
+        android:layout_toRightOf="@id/blue_view"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="#4CAF50"
+        />
+    <androidx.appcompat.widget.AppCompatButton
+        android:onClick="onBackButtonClicked"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="50dp"
+        android:textColor="#000"
+        android:text="뒤로가기"
+        android:layout_centerInParent="true"
+        />
+
+
+
+</RelativeLayout>

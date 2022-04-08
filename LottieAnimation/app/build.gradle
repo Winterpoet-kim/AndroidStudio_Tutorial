@@ -3,6 +3,9 @@ plugins {
     id 'org.jetbrains.kotlin.android'
 }
 
+apply plugin: 'kotlin-android-extensions'
+
+
 android {
     compileSdk 32
 
@@ -29,9 +32,17 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
+    buildFeatures {
+        viewBinding true
+    }
+    viewBinding {
+        enabled = true
+    }
 }
 
 dependencies {
+    // lottie animation 오픈소스를 가져온다.
+    implementation "com.airbnb.android:lottie:5.0.3"
 
     implementation 'androidx.core:core-ktx:1.7.0'
     implementation 'androidx.appcompat:appcompat:1.4.1'

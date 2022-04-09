@@ -8,6 +8,27 @@
     tools:context=".RelativeLayout"
     >
 
+    <TextView
+        android:id="@+id/number_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textSize="50dp"
+        android:textColor="#000"
+        android:layout_below="@+id/back_btn"
+        android:layout_centerInParent="true"
+        />
+    <Button
+        android:id="@+id/add_number_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="더하기"
+        android:textColor="#000"
+        android:textSize="50dp"
+        android:layout_below="@+id/number_text"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="20dp"
+        />
     <View
         android:id="@+id/orange_view"
         android:layout_width="match_parent"
@@ -30,6 +51,7 @@
         android:background="#4CAF50"
         />
     <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/back_btn"
         android:onClick="onBackButtonClicked"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

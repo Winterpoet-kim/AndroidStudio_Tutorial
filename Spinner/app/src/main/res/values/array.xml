@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="testList">
+        <item>겨울시인</item>
+        <item>달빛시인</item>
+        <item>불빛시인</item>
+        <item>청빛시인</item>
+    </string-array>
+
+</resources>

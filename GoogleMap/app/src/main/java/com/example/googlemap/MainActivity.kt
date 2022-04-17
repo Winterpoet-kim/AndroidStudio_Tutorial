@@ -1,18 +1,18 @@
 package com.example.googlemap
 
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import com.google.android.gms.maps.GoogleMap
-import com.google.android.gms.maps.OnMapReadyCallback
+import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.FragmentManager
 import com.google.android.gms.maps.CameraUpdateFactory
+import com.google.android.gms.maps.GoogleMap
 import com.google.android.gms.maps.MapFragment
+import com.google.android.gms.maps.OnMapReadyCallback
 import com.google.android.gms.maps.model.LatLng
 import com.google.android.gms.maps.model.MarkerOptions
 
-class MainActivity : AppCompatActivity(), OnMapReadyCallback {
+class MainActivity : AppCompatActivity(), OnMapReadyCallback{
     
     val TAG: String = "로그"
 
@@ -32,8 +32,9 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback {
     override fun onMapReady(googleMap: GoogleMap) {
         Log.d(TAG, "MainActivity - onMapReady() called")
 
-        var location = LatLng(36.3502, 127.3933)
-        var markerOptions = MarkerOptions()
+        val location = LatLng(36.3502, 127.3933)
+
+        val markerOptions = MarkerOptions()
         markerOptions.title("목련아파트 303동")
         markerOptions.snippet("아파트")
         markerOptions.position(location)

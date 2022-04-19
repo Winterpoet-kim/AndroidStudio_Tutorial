@@ -13,3 +13,5 @@
 > Tutorial List
   - [Intent : 화면 전환](https://winterpoet-kim.tistory.com/8)
   - [ImageView & Toast Message](https://winterpoet-kim.tistory.com/9?category=935438)
+  - [drawable, drawable-v24 차이점](https://winterpoet-kim.tistory.com/10)
+  - [ListView](https://winterpoet-kim.tistory.com/11)

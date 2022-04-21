@@ -18,13 +18,13 @@
 
 
 
-> - Tutorial List
-     - [Intent : 화면 전환](https://winterpoet-kim.tistory.com/8)
-     - [ImageView & Toast Message](https://winterpoet-kim.tistory.com/9)
-     - [drawable, drawable-v24 차이점](https://winterpoet-kim.tistory.com/10)
-     - [ListView](https://winterpoet-kim.tistory.com/11)
-     - [NavigationView](https://winterpoet-kim.tistory.com/12)
-     - [SharedPreferences](https://winterpoet-kim.tistory.com/13)
-     - [WebView](https://winterpoet-kim.tistory.com/14)
-     - [RecyclerView](https://winterpoet-kim.tistory.com/15)
-     - [Fragment](https://winterpoet-kim.tistory.com/16)
+     - Tutorial List
+          - [Intent : 화면 전환](https://winterpoet-kim.tistory.com/8)
+          - [ImageView & Toast Message](https://winterpoet-kim.tistory.com/9)
+          - [drawable, drawable-v24 차이점](https://winterpoet-kim.tistory.com/10)
+          - [ListView](https://winterpoet-kim.tistory.com/11)
+          - [NavigationView](https://winterpoet-kim.tistory.com/12)
+          - [SharedPreferences](https://winterpoet-kim.tistory.com/13)
+          - [WebView](https://winterpoet-kim.tistory.com/14)
+          - [RecyclerView](https://winterpoet-kim.tistory.com/15)
+          - [Fragment](https://winterpoet-kim.tistory.com/16)

@@ -20,6 +20,7 @@ class UserAdapter (val context:Context, val UserList:ArrayList<User>):BaseAdapte
 
         mBinding = ListItemUserBinding.inflate(LayoutInflater.from(context))
 
+        Log.d(TAG, "UserAdapter - getView() called")
         val profile = binding.ivProfile
         val name = binding.tvName
         val age = binding.tvAge
@@ -35,9 +36,7 @@ class UserAdapter (val context:Context, val UserList:ArrayList<User>):BaseAdapte
         greet.text = user.greet
 
         return mBinding!!.root
-
     }
-
     override fun getItem(position: Int): Any {
         Log.d(TAG, "UserAdapter - getItem() called")
         return UserList[position]
@@ -49,7 +48,4 @@ class UserAdapter (val context:Context, val UserList:ArrayList<User>):BaseAdapte
     override fun getItemId(position: Int): Long {
         return 0
     }
-
-
-
 }

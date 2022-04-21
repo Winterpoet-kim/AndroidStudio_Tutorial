@@ -22,6 +22,17 @@ class MainActivity : AppCompatActivity() {
         User(R.drawable.android_basic, "겨울시인4", "37", "안녕하세요"),
         User(R.drawable.android_basic, "겨울시인5", "36", "안녕하세요"),
         User(R.drawable.android_basic, "겨울시인6", "35", "안녕하세요"),
+        User(R.drawable.android_basic, "겨울시인7", "34", "안녕하세요"),
+        User(R.drawable.android_basic, "겨울시인7", "34", "안녕하세요"),
+        User(R.drawable.android_basic, "겨울시인7", "34", "안녕하세요"),
+        User(R.drawable.android_basic, "겨울시인7", "34", "안녕하세요"),
+        User(R.drawable.android_basic, "겨울시인7", "34", "안녕하세요"),
+        User(R.drawable.android_basic, "겨울시인7", "34", "안녕하세요"),
+        User(R.drawable.android_basic, "겨울시인7", "34", "안녕하세요"),
+        User(R.drawable.android_basic, "겨울시인7", "34", "안녕하세요"),
+        User(R.drawable.android_basic, "겨울시인7", "34", "안녕하세요"),
+        User(R.drawable.android_basic, "겨울시인7", "34", "안녕하세요"),
+        User(R.drawable.android_basic, "겨울시인7", "34", "안녕하세요"),
         User(R.drawable.android_basic, "겨울시인7", "34", "안녕하세요")
     )
 

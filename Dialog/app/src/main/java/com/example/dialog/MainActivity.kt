@@ -26,11 +26,11 @@ class MainActivity : AppCompatActivity() {
             ad.setMessage("겨울시인은 존잘입니까?")
 
             // 다이알로그 안에 에딧텍스트를 추가
-            var ed : EditText = EditText(this)
-            ad.setView(ed)
+            val et : EditText = EditText(this)
+            ad.setView(et)
 
             ad.setPositiveButton("확인") { dialog, _ ->
-                var str:String = ed.text.toString()
+                var str:String = et.text.toString()
                 binding.tvResult.text = str
                 Toast.makeText(this, "PositiveButton", Toast.LENGTH_SHORT).show()
                 dialog.dismiss()

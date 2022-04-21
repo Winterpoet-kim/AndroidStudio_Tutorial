@@ -2,12 +2,12 @@
 
 ### [Android Studio / Kotlin] Tutorial Study
 
-** + Usage**
++ **Usage**
 >  [Log 설정/사용법](https://winterpoet-kim.tistory.com/17)
 
 
 
-** + 기본 기능 component 별 구현**
++ **기본 기능 component 별 구현**
 
 
 

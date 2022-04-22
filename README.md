@@ -33,3 +33,5 @@
 > > 1. [Dialog](https://winterpoet-kim.tistory.com/20)
 > > 1. [Custom Dialog with Interface](https://winterpoet-kim.tistory.com/21)
 > > 1. [ServiceMusic](https://winterpoet-kim.tistory.com/22)
+> > 1. [Spinner](https://winterpoet-kim.tistory.com/23)
+> > 1. [BackButton](https://winterpoet-kim.tistory.com/24)

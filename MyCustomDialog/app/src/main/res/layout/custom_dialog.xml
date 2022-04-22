@@ -12,14 +12,13 @@
         android:orientation="vertical"
         android:layout_gravity="center"
         android:gravity="center"
-        android:background="@drawable/rounded_corner_white"
+        android:background="@drawable/rounded_corner_sky_white"
         android:padding="40dp"
         >
         <de.hdodenhof.circleimageview.CircleImageView
             android:layout_width="150dp"
             android:layout_height="150dp"
-            android:src="@drawable/myface"
-            tools:ignore="MissingClass" />
+            android:src="@drawable/popo_podo"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -45,7 +44,7 @@
             android:textColor="#fff"
             android:textStyle="bold"
             android:layout_marginVertical="10dp"
-            android:background="@drawable/rounded_corner_orange"
+            android:background="@drawable/rounded_corner_green"
             />
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/like_btn"
@@ -55,15 +54,7 @@
             android:textColor="#fff"
             android:textStyle="bold"
             android:layout_margin="10dp"
-            android:background="@drawable/rounded_corner_blue"
+            android:background="@drawable/rounded_corner_purple"
             />
-
-
-
-
-
-
     </LinearLayout>
-
-
 </FrameLayout>

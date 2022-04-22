@@ -31,7 +31,6 @@ class MusicService : Service() {
     override fun onDestroy() {
         super.onDestroy()
         mediaPlayer.stop()
-        mediaPlayer.reset()
         mediaPlayer.release()
     }
 }

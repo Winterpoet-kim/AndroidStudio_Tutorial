@@ -6,8 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     android:gravity="center"
-    android:orientation="vertical"
-    >
+    android:orientation="vertical">
 
     <TextView
         android:layout_width="wrap_content"
@@ -17,13 +16,11 @@
         android:textColor="#000"
         />
     <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/dialog_button"
         android:layout_marginTop="20dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="다이얼로그 띄우기"
         android:textSize="30dp"
-        android:onClick="onDialogBtnClicked"
-        tools:ignore="OnClick,UsingOnClickInXml"
         />
-
 </LinearLayout>

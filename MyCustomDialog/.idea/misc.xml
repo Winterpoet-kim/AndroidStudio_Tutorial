@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Tutorial/MyCustomDialog/app/src/main/res/drawable/rounded_corner_blue.xml" value="0.236" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Tutorial/MyCustomDialog/app/src/main/res/drawable/rounded_corner_green.xml" value="0.236" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Tutorial/MyCustomDialog/app/src/main/res/drawable/rounded_corner_orange.xml" value="0.236" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Tutorial/MyCustomDialog/app/src/main/res/drawable/rounded_corner_purple.xml" value="0.236" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Tutorial/MyCustomDialog/app/src/main/res/drawable/rounded_corner_white.xml" value="0.236" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Tutorial/MyCustomDialog/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Tutorial/MyCustomDialog/app/src/main/res/layout/custom_dialog.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/dalbi/StudioProjects/Tutorial/MyCustomDialog/app/src/main/res/drawable/rounded_corner_blue.xml" value="0.233" />
         <entry key="..\:/Users/dalbi/StudioProjects/Tutorial/MyCustomDialog/app/src/main/res/drawable/rounded_corner_white.xml" value="0.233" />
         <entry key="..\:/Users/dalbi/StudioProjects/Tutorial/MyCustomDialog/app/src/main/res/layout/activity_main.xml" value="0.3619791666666667" />

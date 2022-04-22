@@ -12,17 +12,15 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        //setContentView(R.layout.activity_main)
         mBinding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        val intent = Intent(this, MusicService::class.java)
+
         binding.btnStart.setOnClickListener {
-            val intent = Intent(this, MusicService::class.java)
             startService(intent)
         }
-
         binding.btnStop.setOnClickListener {
-            val intent = Intent(this, MusicService::class.java)
             stopService(intent)
         }
 

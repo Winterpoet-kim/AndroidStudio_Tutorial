@@ -3,15 +3,20 @@
 ### [Android Studio / Kotlin] Tutorial Study
 
    
-
 + **Useful Info**
-> [Git 설치 및 사용법 -기본 (Windows)](https://winterpoet-kim.tistory.com/7)
-> [Android Studio : Log 설정/사용법](https://winterpoet-kim.tistory.com/17)
+> + [Git 설치 및 사용법 -기본 (Windows)](https://winterpoet-kim.tistory.com/7)
+> + [Android Studio : Log 설정/사용법](https://winterpoet-kim.tistory.com/17)
+ 
+&nbsp
+&nbsp
 
 + **In-depth Study**
-> [뷰 바인딩 (view Binding)](https://winterpoet-kim.tistory.com/3)
-> [drawable, drawable-v24 차이점](https://winterpoet-kim.tistory.com/10)
+> + [뷰 바인딩 (view Binding)](https://winterpoet-kim.tistory.com/3)
+> + [drawable, drawable-v24 차이점](https://winterpoet-kim.tistory.com/10)
 
+&nbsp
+&nbsp
+&nbsp
 
 + **기본 기능 component 별 구현**   
 

@@ -5,6 +5,7 @@
    
 + **Useful Info**
 > + [Git 설치 및 사용법 -기본 (Windows)](https://winterpoet-kim.tistory.com/7)
+> + [Markdown : 마크다운 사용법 정리](https://winterpoet-kim.tistory.com/4)
 > + [Android Studio : Log 설정/사용법](https://winterpoet-kim.tistory.com/17)
  
 &nbsp;
@@ -13,6 +14,7 @@
 + **In-depth Study**
 > + [뷰 바인딩 (view Binding)](https://winterpoet-kim.tistory.com/3)
 > + [drawable, drawable-v24 차이점](https://winterpoet-kim.tistory.com/10)
+> + [AndroidX (Jetpack libraries)](https://winterpoet-kim.tistory.com/26)
 
 &nbsp;
 &nbsp;
@@ -40,3 +42,4 @@
 > > 1. [Spinner](https://winterpoet-kim.tistory.com/23)
 > > 1. [BackButton](https://winterpoet-kim.tistory.com/24)
 > > 1. [startActivityForResult (deprecated)](https://winterpoet-kim.tistory.com/25)
+> > 1. [BottomNavigation ](https://winterpoet-kim.tistory.com/27)

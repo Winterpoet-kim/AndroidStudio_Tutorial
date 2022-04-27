@@ -7,6 +7,7 @@
 > + [Git 설치 및 사용법 -기본 (Windows)](https://winterpoet-kim.tistory.com/7)
 > + [Markdown : 마크다운 사용법 정리](https://winterpoet-kim.tistory.com/4)
 > + [Android Studio : Log 설정/사용법](https://winterpoet-kim.tistory.com/17)
+> + [flaticon : Free icons, stickers](https://www.flaticon.com/)
  
 &nbsp;
 &nbsp;
@@ -42,4 +43,5 @@
 > > 1. [Spinner](https://winterpoet-kim.tistory.com/23)
 > > 1. [BackButton](https://winterpoet-kim.tistory.com/24)
 > > 1. [startActivityForResult (deprecated)](https://winterpoet-kim.tistory.com/25)
-> > 1. [BottomNavigation ](https://winterpoet-kim.tistory.com/27)
+> > 1. [BottomNavigation](https://winterpoet-kim.tistory.com/27)
+> > 1. [Selector](https://winterpoet-kim.tistory.com/30)

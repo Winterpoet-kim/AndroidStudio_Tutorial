@@ -7,7 +7,8 @@
 > + [Git 설치 및 사용법 -기본 (Windows)](https://winterpoet-kim.tistory.com/7)
 > + [Markdown : 마크다운 사용법 정리](https://winterpoet-kim.tistory.com/4)
 > + [Android Studio : Log 설정/사용법](https://winterpoet-kim.tistory.com/17)
-> + [flaticon : Free icons, stickers](https://www.flaticon.com/)
+> + [flaticon : Free icons, stickers](https://www.flaticon.com/31)
+
  
 &nbsp;
 &nbsp;
@@ -16,6 +17,7 @@
 > + [뷰 바인딩 (view Binding)](https://winterpoet-kim.tistory.com/3)
 > + [drawable, drawable-v24 차이점](https://winterpoet-kim.tistory.com/10)
 > + [AndroidX (Jetpack libraries)](https://winterpoet-kim.tistory.com/26)
+> + [dp, sp 단위에 대해 알아보자](https://www.flaticon.com/33)
 
 &nbsp;
 &nbsp;
@@ -45,3 +47,4 @@
 > > 1. [startActivityForResult (deprecated)](https://winterpoet-kim.tistory.com/25)
 > > 1. [BottomNavigation](https://winterpoet-kim.tistory.com/27)
 > > 1. [Selector](https://winterpoet-kim.tistory.com/30)
+> > 1. [레이아웃 (1) LinearLayout](https://winterpoet-kim.tistory.com/32)

@@ -48,3 +48,5 @@
 > > 1. [BottomNavigation](https://winterpoet-kim.tistory.com/27)
 > > 1. [Selector](https://winterpoet-kim.tistory.com/30)
 > > 1. [레이아웃 (1) LinearLayout](https://winterpoet-kim.tistory.com/32)
+> > 1. [레이아웃 (2) RelativeLayout](https://winterpoet-kim.tistory.com/34)
+> > 1. [VideoView](https://winterpoet-kim.tistory.com/35)

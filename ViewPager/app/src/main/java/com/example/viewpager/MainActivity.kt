@@ -10,9 +10,15 @@ class MainActivity : AppCompatActivity() {
 
     private var mBinding : ActivityMainBinding? = null
     private val binding get() = mBinding!!
-    private val fragTitleArray = arrayOf(
+    private val tabTitleArray = arrayOf(
         "Monday", "Tuesday", "Wednesday"
     )
+    private val tabIconArray = arrayOf(
+        R.drawable.ic_baseline_arrow_back_24,
+        R.drawable.ic_baseline_arrow_downward_24,
+        R.drawable.ic_baseline_arrow_forward_24
+    )
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -25,7 +31,8 @@ class MainActivity : AppCompatActivity() {
         viewPager.adapter = ViewPagerAdapter(this)
 
         TabLayoutMediator(tabLayout, viewPager){
-            tab, position -> tab.text = fragTitleArray[position]
+            tab, position -> tab.text = tabTitleArray[position]
+            tab.icon = getDrawable(tabIconArray[position])
         }.attach()
     }
 }

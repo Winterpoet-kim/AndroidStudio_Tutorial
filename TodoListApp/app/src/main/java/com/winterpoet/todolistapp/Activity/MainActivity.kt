@@ -1,4 +1,4 @@
-package com.winterpoet.todolistapp
+package com.winterpoet.todolistapp.Activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

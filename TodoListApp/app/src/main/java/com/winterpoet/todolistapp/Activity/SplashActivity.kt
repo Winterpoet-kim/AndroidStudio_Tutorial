@@ -1,10 +1,11 @@
-package com.winterpoet.todolistapp
+package com.winterpoet.todolistapp.Activity
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
+import com.winterpoet.todolistapp.R
 
 class SplashActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

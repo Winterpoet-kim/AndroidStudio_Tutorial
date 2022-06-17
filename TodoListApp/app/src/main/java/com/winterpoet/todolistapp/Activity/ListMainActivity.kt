@@ -5,6 +5,8 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.LayoutInflater
 import androidx.appcompat.app.AlertDialog
+import com.google.android.gms.ads.AdRequest
+import com.google.android.gms.ads.MobileAds
 import com.winterpoet.todolistapp.adapter.TodoAdapter
 import com.winterpoet.todolistapp.database.TodoDatabase
 import com.winterpoet.todolistapp.databinding.ActivityListMainBinding
@@ -26,6 +28,13 @@ class ListMainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityListMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
+
+        // 모바일 광고 SDK 초기화
+        MobileAds.initialize(this) {}
+
+        // 하단배터 광고 로드
+        val adRequest = AdRequest.Builder().build()
+        binding.adView.loadAd(adRequest)
 
         // Adapter 인스턴스 생성
         todoAdapter = TodoAdapter()
